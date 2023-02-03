@@ -34,7 +34,8 @@ auto
 - CONTEÚDOS
 - INFORMAÇÕES
 
-[Pipeline de Criação e Execução de uma Imagem Docker](https://web.dio.me/lab/pipeline-de-criacao-e-execucao-de-uma-imagem-docker/learning/24f8f86e-f134-4560-bcc3-7574fd495821)[Entendendo o Desafio](https://web.dio.me/lab/pipeline-de-criacao-e-execucao-de-uma-imagem-docker/learning/a4db411f-2498-4ff5-98c3-bdcbaf058ed3)
+- [Pipeline de Criação e Execução de uma Imagem Docker](https://web.dio.me/lab/pipeline-de-criacao-e-execucao-de-uma-imagem-docker/learning/24f8f86e-f134-4560-bcc3-7574fd495821)
+- [Entendendo o Desafio](https://web.dio.me/lab/pipeline-de-criacao-e-execucao-de-uma-imagem-docker/learning/a4db411f-2498-4ff5-98c3-bdcbaf058ed3)
 
 
 
